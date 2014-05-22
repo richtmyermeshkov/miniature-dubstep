@@ -9,6 +9,9 @@ public class Test {
 		System.out.println("add some more stuff");
 		
 		System.out.println("This is pretty cool!");
+		
+		SalesData sd = new SalesData();
+		
 	}
 
 }
