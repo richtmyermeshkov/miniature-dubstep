@@ -14,6 +14,8 @@ public class Test {
 		
 		System.out.println(sd.getHello());
 		
+		System.out.println("Total sales = " + sd.getSalesCount());
+
 	}
 
 }
