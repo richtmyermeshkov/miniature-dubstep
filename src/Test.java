@@ -12,6 +12,8 @@ public class Test {
 		
 		SalesData sd = new SalesData();
 		
+		System.out.println(sd.getHello());
+		
 	}
 
 }
